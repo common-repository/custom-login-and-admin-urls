@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CLAU 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-19 16:19+0100\n"
+"PO-Revision-Date: 2011-07-19 16:20+0100\n"
+"Last-Translator: Vitor Carvalho CODEX.PT <vcarvalho@codex.pt>\n"
+"Language-Team: lightningspirit <lightningspirit@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;esc_html__\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: s, es, as\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom-login.php:244
+msgid "You do not have sufficient permissions to manage permalink options for this site."
+msgstr "Usted no tiene permisos suficientes para administrar las opciones de enlace permanente para este sitio."
+
+#: custom-login.php:256
+msgid "Login Base"
+msgstr "Base de Login"
+
+#: custom-login.php:309
+msgid "Allowed characters are a-z, 0-9, - and _"
+msgstr "Los caracteres permitidos son a-z, 0-9, - and _"
+
+#: custom-login.php:325
+msgid "Permalink Settings"
+msgstr "Configuración Permalink"
+
+#: custom-login.php:330
+msgid "Default Login Base"
+msgstr "Base de Login por defecto"
+
+#~ msgid ""
+#~ "Custom Login and Admin URLs can be used only with Wordpress 3.2 version"
+#~ msgstr ""
+#~ "Custom Login and Admin URLs sólo se puede utilizar con las versiones de "
+#~ "mayor o igual a 3.2 de Wordpress"
